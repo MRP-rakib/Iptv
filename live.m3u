@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports HD
+https://trs1.aynaott.com/tsports/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",সংসদ বাংলাদেশ
+http://stvlive.net:8080/btv/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Maasranga TV
+http://stvlive.net:8080/atnbangla/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel I
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Deepto TV
+http://stvlive.net:8080/deepto/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ETV
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Independent TV
+http://stvlive.net:8080/independent/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",News 24 BD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekattor TV
+http://103.175.242.10:8080/ekattor/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/master.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekhon Tv
+https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",G TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEXUS TV
+https://sm-monirul.top/toffee/play/nexus_tv.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 1 NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NEWS 21 TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",041. Jago News
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Sonar
+http://103.159.180.34:5001/live/3476.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BBC WORLD NEWS
+https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",CNN NEWS
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",CARTOON NETWORK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Nick বাংলা
+http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony HD
+https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Aath
+http://live.balajibroadband.com:3500/live/697.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Yay
+http://live.balajibroadband.com:3500/live/872.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MAX 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony WAH
+http://live.balajibroadband.com:3500/live/1393.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony PIX HD
+http://live.balajibroadband.com:3500/live/762.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BBC Earth
+http://live.balajibroadband.com:3500/live/821.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary",Discovery Bangla
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Max 2
+http://live.balajibroadband.com:3500/live/483.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony MAX HD
+http://live.balajibroadband.com:3500/live/476.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 2 Hindi HD
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 1 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_1_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 2 hd
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_2_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 3
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_3.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports Select 1 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports Select 2 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",055. Ten Cricket
+https://sm-monirul.top/toffee/play/ten_cricket.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTV Sports
+http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Sports 1 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_1_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Sports 2 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_2_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Sports 5 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SPORTS_TEN_5_HD.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TSN 3
+http://stalker.hakunamata.workers.dev/play/260/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TSN 5
+http://stalker.hakunamata.workers.dev/play/262/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sports",FOX
+http://84.17.50.102/fox/index.m3u8

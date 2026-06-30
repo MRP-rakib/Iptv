@@ -59,3 +59,11 @@ http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekhon TV
+https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY TEN Cricket
+https://sm-monirul.top/toffee/play/ten_cricket.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Cartoon Network
+https://sm-monirul.top/toffee/play/cartoon_network_sd.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Pogo
+https://sm-monirul.top/toffee/play/pogo_sd.m3u8

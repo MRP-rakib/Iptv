@@ -23,8 +23,18 @@ http://180.94.28.28:8097//DEEPTO-TV/index.fmp4.m3u8
 http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Independent TV
 http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Rtv
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Banglavison
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Jalsha
@@ -81,9 +91,7 @@ https://sm-monirul.top/toffee/play/animal_planet_sd.m3u8
 https://sm-monirul.top/toffee/play/discovery_hd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-1
-http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-2
-http://180.94.28.28:8097//BEIN-SPORTS-2/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",National Geography
+http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8

@@ -25,6 +25,8 @@ http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8
 http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Rtv
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV
@@ -89,8 +91,6 @@ https://sm-monirul.top/toffee/play/tlc_sd.m3u8
 https://sm-monirul.top/toffee/play/animal_planet_sd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Discovery HD
 https://sm-monirul.top/toffee/play/discovery_hd.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",National Geography
 http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Al Jazeera
